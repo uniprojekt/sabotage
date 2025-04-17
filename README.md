@@ -1,6 +1,6 @@
 # SS25 Sabotage
 
-## Week 1 - April 14th
+## Week 1 - April 14th  
 
 Hey everybody,
 it was great meeting you all and we're excited to start working together on your projects in the upcoming months.
