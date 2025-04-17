@@ -50,7 +50,8 @@ You can all publish on this repository. To accomplish this you can either watch 
 
 We are planning to visit the event [**Digital Interventions. Bodies, Infrastructures, Politics**](https://www.sfb-intervenierende-kuenste.de/veranstaltungen/jahrestagung2025.html) at HAU on the 9th and 10th of May. 
 
-![kreisverkehr](image.png)
+![kreisverkehr](image.png)  
+  
 We will announce it again in class, but please check your availability.  
 
 --- 
