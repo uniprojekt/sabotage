@@ -14,32 +14,62 @@ To jumpstart the research, we will distribute uncovering potential project direc
   
 - semantics of sabotage
   
-- sabotaging systems
-- bureaucracy and sludge:  
-   [The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy" by David Graeber (2015)](https://files.libcom.org/files/David_Graeber-The_Utopia_of_Rules_On_Technology_St.pdf#page=6.06)
+- sabotage at work:
 
-- subversion and spycraft
+- bureaucracy and sludge:
+  
 - self-sabotage  
-  [Marina Benjamin - Me vs Myself](https://aeon.co/essays/why-do-i-let-myself-sabotage-my-own-best-laid-plans) 
 
 - **epistemic/ideologic sabotage**  
  Sabotage targeting the discursive mechanisms of belief and truth.  
- [Unintended Consequences Blog - Bezmenovs Steps](https://unintendedconsequenc.es/bezmenovs-steps/)  
-[Mackenthun, Dosch - Subversive Semantics in Political and Cultural Discourse
-](https://library.oapen.org/handle/20.500.12657/76603) 
   
 - industrial sabotage and hybrid warfare  
-  
-- digital systems  
+
+- digital systems 
   
 - collaboration  
-  [Verschure -  The Nature and Dynamics of Collaboration](https://direct.mit.edu/books/oa-edited-volume/5895/The-Nature-and-Dynamics-of-Collaboration) (Open Access Book)
-- art and activism  
   
-#### Intersting for most topics:  
+- design and activism  
+  
+- Sabotage and the public
+  
+  
+#### Intersting for most topics, sometimes not closely related to sabotage:
+
+[Unintended Consequences Blog - Bezmenovs Steps](https://unintendedconsequenc.es/bezmenovs-steps/)  
+
+[Mackenthun, Dosch - Subversive Semantics in Political and Cultural Discourse
+](https://library.oapen.org/handle/20.500.12657/76603) 
+
+[Goldstein - Psychology of Vandalism](https://books.google.de/books?hl=en&lr=&id=ByfLBgAAQBAJ&oi=fnd&pg=PA1908&dq=vandalism&ots=H7qETs67th&sig=5NEJXh4ztWbnx48oKjKXLry68sI&redir_esc=y#v=onepage&q=vandalism&f=false)
+
+[Allen - An Aesthetic Theory of Vandalism](https://journals.sagepub.com/doi/abs/10.1177/001112877802400305)
+
+[Marina Benjamin - Me vs Myself](https://aeon.co/essays/why-do-i-let-myself-sabotage-my-own-best-laid-plans) 
+
+[mars - workplace sabotage](https://www.taylorfrancis.com/books/edit/10.4324/9781315203850/work-place-sabotage-gerald-mars?context=ubx)
+
+[Donovan - New generation of cyberwarfare](https://www.theatlantic.com/technology/archive/2024/09/new-generation-cyberwarfare/679870/)
+
+[Mumford - Hybrid Warfare: The continuation of ambiguity by other means](https://www.cambridge.org/core/journals/european-journal-of-international-security/article/hybrid-warfare-the-continuation-of-ambiguity-by-other-means/1B3336D8109D418F89D732EB98B774E5)
+
+[Richterova et al. Russian Sabotage in the Gig-Economy Era](https://www.tandfonline.com/doi/full/10.1080/03071847.2024.2401232#d1e295)
+
+
+[Verschure -  The Nature and Dynamics of Collaboration](https://direct.mit.edu/books/oa-edited-volume/5895/The-Nature-and-Dynamics-of-Collaboration) (Open Access Book)
+
+
+[Galdon - Counterism & trust: From critical to tactical design](https://researchonline.rca.ac.uk/5908/1/DRS2024%20-%20From%20Critical%20to%20Tactical%20Design.pdf)
+
+[Chellew - Defending Suburbia](https://cjur.uwinnipeg.ca/index.php/cjur/article/view/164)
+  [D'Orca -  The Arsenal of Exclusion & Inclusion](https://www.gsd.harvard.edu/project/the-arsenal-of-exclusion-inclusion/)
+
+[Brehm, Gates - Working, Shirking, and Sabotage: Bureaucratic Response to a Democratic Public ](https://books.google.de/books?hl=en&lr=&id=lEg_DwAAQBAJ&oi=fnd&pg=PR7&dq=sabotage+bureaucracy&ots=dkeKckR7I_&sig=6WRfookQbmkPfJ93DvNCu_dNIn8&redir_esc=y#v=onepage&q=sabotage%20bureaucracy&f=false)
+
   [The CIA's Simple Sabotage Field Manual](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
-#### Special interest, loosely related
-##### Technology
+
+[Lovinck - Stuck on the Platform](https://valiz.nl/en/publications/stuck-on-the-platform)
+
 [Pape - The Aesthetics of Stealth: Digital Culture, Video Games, and the Politics of Perception](https://direct.mit.edu/books/oa-monograph/5847/The-Aesthetics-of-StealthDigital-Culture-Video)
 
 [Kudina, Verbeek - Ethics from Within: Google Glass, the Collingridge Dilemma, and the Mediated Value of Privacy
@@ -49,7 +79,16 @@ To jumpstart the research, we will distribute uncovering potential project direc
 
 [Verbeek - What things do](https://www.psupress.org/books/titles/0-271-02539-5.html)
 
+[The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy" by David Graeber (2015)](https://files.libcom.org/files/David_Graeber-The_Utopia_of_Rules_On_Technology_St.pdf#page=6.06)
+
+[Obfuscation](https://direct.mit.edu/books/book/3112/ObfuscationA-User-s-Guide-for-Privacy-and-Protest) *a bit dated but still ok*
+
 [Holt - Cloud Policy: A History of Regulating Pipelines, Platforms, and Data](https://direct.mit.edu/books/oa-monograph/5830/Cloud-PolicyA-History-of-Regulating-Pipelines)
+
+[Tharp - Discursive Design](https://direct.mit.edu/books/book/4163/Discursive-DesignCritical-Speculative-and)
+
+#### Niche resources
+Education [Bell Hooks - Teaching to Transgress](https://www.routledge.com/Teaching-to-Transgress-Education-as-the-Practice-of-Freedom/hooks/p/book/9780415908085)
   
 Videos:  
 [Benjamin Bratton: The Stack: Design and Geopolitics in the Age of Planetary-Scale Computing](https://www.youtube.com/watch?v=IXan6TvMqgk)
