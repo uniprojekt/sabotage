@@ -12,34 +12,34 @@ This week we kicked off the project and gave a spotty overview of the potential 
 The next weeks will be about determining a general theme for your project and developing your project hypothesis and statement.  
 To jumpstart the research, we will distribute uncovering potential project directions. The following topics should open up the termin and introduce various interpretations:  
   
-- semantics of sabotage
+- **semantics of sabotage**
   What are the delineations of sabotage, obfuscation, vandalism, subversion and other terminology?
   
-- sabotage at work:
+- **sabotage at work**
   Sabotage has it's origin at work and has taken many forms. How did workplace sabotage develop from throwing shoes in machines to quiet quitting? How did it's character and motivation change?
 
-- bureaucracy and sludge:
+- **bureaucracy and sludge**
   Bureaucracy can take forms that feel like sabotage, while it's inherent nature is to provide latency and friction to prevent sabotage.
   
-- self-sabotage
+- **self-sabotage**
   From deep psychology to peer pressure and procrastinating - acting against our immediate or long-term best interest is a part of our life and takes many forms and names.
 
 - **epistemic/ideologic sabotage**  
     Sabotage targeting the discursive mechanisms of belief and truth.  
   
-- sabotage and hybrid warfare
+- **sabotage and hybrid warfare**
   sabotage and hybrid warfare has caught our attention in the last years, but not only does it seem to increase, but also the underlying economics have developed.
 
-- digital systems
+- **digital systems**
   how do digital systems invite and prevent sabotage? A multitude of digital systems invites further examination. 
   
-- collaboration
+- **collaboration**
   Any collaborative setting or network is based on mutual trust, and hereby is vulnerable to sabotage. What are the basics mechanics to sanction and prevent sabotage in collaborative settings?
   
-- design and activism 
+- **design and activism**
   From critical design to activist art and design, the creative arts have a rich history in reflecting, participating and enabling discourse and rebellion.
   
-- Sabotage and the public
+- **Sabotage and the public**
   Public spaces often provide the stage for specific acts of sabotage, from blocking streets and railroads to hostile architecture and other subtly excluding designs, which have been often met with sabotage and outrage.
   
   
