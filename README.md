@@ -142,10 +142,11 @@ We will start with small group discussions in which you can already start mappin
 ### Preliminary schedule
 
 **Monday April 28th**  
-10 - 12 Research presentations with breaks - please be on time.  
-12 - 13 Break  
-13 - 15 Research Presentations with breaks - please return on time.  
-from 15 Group assignments  
+10 - 11 Group assignments
+11 - 13 Research presentations with breaks - please be on time.  
+13 - 14 Break  
+14 - 16 Research Presentations with breaks - please return on time.  
+
   
   
 **Tuesday April 28th**  
