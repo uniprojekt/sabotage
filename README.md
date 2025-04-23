@@ -10,7 +10,7 @@ we hope you had a nice easter weekend. In this repository, we will give regular 
   
 This week we kicked off the project and gave a spotty overview of the potential contextual background for the class.  
 The next weeks will be about determining a general theme for your project and developing your project hypothesis and statement.  
-To jumpstart the research, we will distribute uncovering potential project directions. The following topics should open up the termin and introduce various interpretations:  
+To jumpstart the research, we will distribute uncovering potential project directions. The following topics should be considered starting points and introduce various interpretations:  
   
 - **semantics of sabotage**
   What are the delineations of sabotage, obfuscation, vandalism, subversion and other terminology?
@@ -43,7 +43,7 @@ To jumpstart the research, we will distribute uncovering potential project direc
   Public spaces often provide the stage for specific acts of sabotage, from blocking streets and railroads to hostile architecture and other subtly excluding designs, which have been often met with sabotage and outrage.
   
   
-#### Intersting for most topics, sometimes not closely related to sabotage:
+#### Interesting for most topics, sometimes not closely related to sabotage:
 
 [Unintended Consequences Blog - Bezmenovs Steps](https://unintendedconsequenc.es/bezmenovs-steps/)  
 
@@ -104,19 +104,25 @@ Videos:
 
 [YouTube Channel Trust](https://www.youtube.com/@trust_support)
 
+### Research presentations (TASK INCLUDED - READ THOROUGHLY)
 
-The first task is to do a deep research into one of these topics and present it to the class in a 15 minute presentation. Remember, that the general basics shouldn't be covered in every presentation and the purpose of this exerise is depth! Also, the starting points are only starting points, so your presentation is expected to go beyond those.
-Focus on finding interesting design related phenomena, that offer entry points for the project related research.
+The first task is to do a deep research into one of these topics and present it to the class in a 10 - 15 minute presentation. Remember, that the general basics shouldn't be covered in every presentation and the purpose of this exerise is depth! Also, the literature above are only starting points, so your presentation is expected to go beyond those.
+Focus on finding interesting sabotage related phenomena, that offer entry points for the design project related research.
 This is the schedule for the presentations:  
   
-**Monday April 28th:**  
-Philipp, Freddy, Mona, Dachi  
-**Tuesday April 29th:**  
-Miriam (H.), Leon, Max, Linus  
+### **Monday April 28th before lunch:**  
+### Philipp, Freddy, Mona, Dachi  
+### **Monday April 28th after lunch:**  
+### Miriam (H.), Leon, Max, Linus
 
-Feel free to come up with another sabotage-related topic, if you had something else in mind.
+### Task summary:
+- Pick one of the topics above or come up with your own
+- prepare a 10-15 minute presentation with focus on depth, no general introductions to avoid overlap
+- others are due the week after :-) If for some reasons you can't attend or don't have the time to prepare, please find a substitute on your own.
 
-**Important:** Coordinate so that the topics are evenly distributed and there is not a lot of overlap.
+*Feel free to come up with another sabotage-related topic, if you had something else in mind.*
+
+**Important:** Coordinate so that the topics are evenly distributed and there is not a lot of overlap. Multiple presentations on one topic are welcome, as long as they favor different aspects.  
 Also of note: The topic should reflect your interest, but shouldn't necessarily determine your project direction yet.
 Collect all your references to make them accessible to everyone after the presentations. 
 ---
