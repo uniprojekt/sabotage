@@ -1,5 +1,23 @@
 # SS25 Sabotage
 
+## Week 2 - April 29th
+
+Thanks for a great kick-off to all,
+For next week, a short summary of what you need to remember:
+- please properly start your research. I encourage especially those of you who have not yet engaged at least with the provided material to spend some serious time doing so.
+  - present next week in our first 1on1 session the following (in that order):
+    - A direction for your project (can be revised until the end of the research phase)
+    - A collection of insights that you provide starting points for your project (3-5 observations)
+    - Prepare this adequately (visuals, artefacts, sketches, mindmaps, slides) and engage with the material deeply to get the most out of the feedback Lukas and I can provide to help you.
+    - If you want to engage in a specific learning endeavour which requires specific attention and potentially our guidance, prepare please:
+      - what you want to learn
+      - the scope and goal
+      - your motivation
+  - We are holding another eight research presentations. Please coordinate among your peers who will present and make sure to avoid overlaps!
+  - Go through the program of the mini excursion (see last weeks update) and pick what parts of the program you would like to attend.
+
+That's it for now. We will update the schedule later, but you can expect us to start with input and presentations at 10 on monday and tuesday, and the 1on1 sessions in the afternoon.
+
 ## Week 1 - April 14th
 
 Hey everybody,
@@ -153,8 +171,5 @@ We will start with small group discussions in which you can already start mappin
 10 - 11 Input (either coding or theory)  
 11 - 13 Working  
 from 14 Working & Consultations  
-
-
-Hi Aeneas hier mal ein versuch für ein pull request<345
 
 
