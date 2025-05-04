@@ -17,6 +17,7 @@ For next week, a short summary of what you need to remember:
   - Go through the program of the mini excursion (see last weeks update) and pick what parts of the program you would like to attend.
 
 That's it for now. We will update the schedule later, but you can expect us to start with input and presentations at 10 on monday and tuesday, and the 1on1 sessions in the afternoon.
+fc bayern
 
 ## Week 1 - April 14th
 
